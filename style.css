@@ -1,6 +1,7 @@
 /* Styling for the title */
 title {
-  background-color: aliceblue;
+  background-color: grey;
+  color: grey;
   font-family: Arial, sans-serif;
 }
 
